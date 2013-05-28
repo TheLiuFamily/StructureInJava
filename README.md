@@ -1,0 +1,4 @@
+StructureInJava
+===============
+
+Structure data
